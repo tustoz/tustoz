@@ -37,7 +37,7 @@ My name is Maxi Aditya and I'm a software developer/DevOps engineer. I'm from In
 [![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxi.aditya)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tustoz)
 
-## 🛠 &nbsp;Tech Stack
+## 🛠&nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
