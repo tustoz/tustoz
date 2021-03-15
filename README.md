@@ -6,7 +6,6 @@ My name is Maxi Aditya and I'm a Mobile Developer. I'm from Indonesia, living in
 - 🔭 I’m currently working at [orqa](https://github.com/orqaid):kissing:
 - &#x2728; Interested in frontend/backend things
 - 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on Github
 
 <!--
 ## &#x1F527; Technologies & Tools
