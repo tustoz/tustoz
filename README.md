@@ -1,6 +1,5 @@
 
 # Hi there, I'm Tustoz! &#x1F44B;
-My name is Maxi Aditya and I'm a Mobile Developer. I'm from Indonesia, living in Pekanbaru, Riau and currently studying at [Filiasofia School](https://filiasofia.sch.id).
 
 **Personal Stuffs:**
 - 🔭 I’m currently working at [orqa](https://github.com/orqaid):kissing:
