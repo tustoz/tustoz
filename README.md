@@ -3,6 +3,7 @@
 
 ## 🛠&nbsp;Tech Stack
 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
