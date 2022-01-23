@@ -19,8 +19,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tustoz&layout=compact&hide_border=true&theme=dark)
-
 <a href="https://github.com/sooluh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tustoz&layout=compact&hide_border=true&theme=dark" />
 </a>
