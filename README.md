@@ -18,6 +18,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tustoz&show_icons=true)
+
 <a href="https://github.com/sooluh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tustoz&layout=compact&hide_border=true&theme=dark" />
 </a>
+
