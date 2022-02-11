@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github)&nbsp;
 ![MongoDB](https://shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
