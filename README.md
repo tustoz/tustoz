@@ -12,8 +12,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=000000)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)&nbsp;
 ![MongoDB](https://shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
