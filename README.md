@@ -1,5 +1,5 @@
 
-# Hi there &#x1F44B;
+# Hi there! &#x1F44B;
 
 ## 🛠&nbsp;Tech Stack
 
